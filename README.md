@@ -14,6 +14,6 @@ Detection of Markers and follow their direction with obstacle avoidance,
 
 Edited TurtleBot URDF files with camera and sensors, 
 
-Gazebo World files and Aruco Markers (.dae format rectangular model files with marker texture added in Blender).
+Aruco Markers (.dae format rectangular model files with marker texture added in Blender). They can be imported into any world you choose.
 
 
