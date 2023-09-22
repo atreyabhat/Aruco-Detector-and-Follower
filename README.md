@@ -1,6 +1,6 @@
 # Aruco-Detector-and-Follower
 
-My internship work on ROS Simulation of a Surveilliance Rover
+My project work on ROS Simulation of a Surveilliance Rover
 
 
 Based on TurtleBot3 Waffle, the rover searches for and detects Aruco Marker Checkpoints and makes round trips between them.
